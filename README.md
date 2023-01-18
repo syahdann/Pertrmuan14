@@ -1,7 +1,7 @@
 # Pertemuan-14
 
 - Nama : Muhammad Syahdan Junus
-- NIM  : 312210285
+- NIM   : 312210285
 - Kelas : TI.22.A3
 
 # Latihan 1
